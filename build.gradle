@@ -5,6 +5,7 @@ buildscript {
     ext.appCompatVersion = '1.2.0'
     ext.materialDesignVersion = '1.2.1'
     ext.constraintLayoutVersion = '2.0.2'
+    ext.ktlintVersion = '0.39.0'
 
     repositories {
         google()
